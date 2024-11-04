@@ -1,7 +1,5 @@
-# Установка языков для GitHub Linguist
-*.html linguist-language=HTML
-*.css linguist-language=CSS
-*.js linguist-language=JavaScript
 
-# Автонастройка концов строк
-* text=auto
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+
