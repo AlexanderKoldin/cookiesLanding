@@ -1,3 +1,7 @@
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 # Проект: [Cookies Landing](https://alexanderkoldin.github.io/cookiesLanding/)
 
 Этот проект представляет собой одностраничное приложение с адаптивной версткой, стилизованными компонентами, переключателем валют и валидацией формы. Он разработан для демонстрации базовых навыков HTML, CSS и JavaScript.
